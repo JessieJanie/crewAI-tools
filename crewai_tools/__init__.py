@@ -68,6 +68,7 @@ from .tools import (
     ScrapegraphScrapeTool,
     ScrapegraphScrapeToolSchema,
     ScrapeWebsiteTool,
+    SkimWebsiteTool,
     ScrapflyScrapeWebsiteTool,
     SeleniumScrapingTool,
     SerpApiGoogleSearchTool,
