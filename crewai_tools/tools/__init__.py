@@ -125,3 +125,5 @@ from .zapier_action_tool.zapier_action_tool import ZapierActionTools
 from .parallel_tools import (
     ParallelSearchTool,
 )
+
+from .skim_reader_tool.skim_reader_tool import SkimReaderTool

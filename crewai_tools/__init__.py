@@ -39,6 +39,7 @@ from .tools import (
     FirecrawlCrawlWebsiteTool,
     FirecrawlScrapeWebsiteTool,
     FirecrawlSearchTool,
+    SkimReaderTool,
     GenerateCrewaiAutomationTool,
     GithubSearchTool,
     HyperbrowserLoadTool,
