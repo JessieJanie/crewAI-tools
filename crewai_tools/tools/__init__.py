@@ -83,6 +83,7 @@ from .scrape_element_from_website.scrape_element_from_website import (
     ScrapeElementFromWebsiteTool,
 )
 from .scrape_website_tool.scrape_website_tool import ScrapeWebsiteTool
+from .skim_website_tool.skim_website_tool import SkimWebsiteTool
 from .scrapegraph_scrape_tool.scrapegraph_scrape_tool import (
     ScrapegraphScrapeTool,
     ScrapegraphScrapeToolSchema,
